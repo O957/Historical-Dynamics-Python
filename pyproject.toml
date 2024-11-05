@@ -1,15 +1,19 @@
 [tool.poetry]
-name = "baseline-template-change"
+name = "historical-dynamics-py"
 version = "0.0.1"
-description = "The author's personal template for repository creation."
+description = "Implementations in Python using Diffrax of the models described in Peter Turchin's 2003 book Historical Dynamics."
 authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
 license = "Apache-2.0"
-package-mode = false
+packages = [{include = "historical_dynamics"}]
 
 [tool.poetry.dependencies]
 python = "^3.12"
 pre-commit = "^3.7.0"
+diffrax = "^0.6.0"
 
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.3.3"
 
 [build-system]
 requires = ["poetry-core"]
