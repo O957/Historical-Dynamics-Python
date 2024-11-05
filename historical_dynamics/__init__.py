@@ -5,4 +5,3 @@ and possibility of omission see
 PEP 420:
 https://peps.python.org/pep-0420/
 """
-
