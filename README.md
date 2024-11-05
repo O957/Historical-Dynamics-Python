@@ -4,7 +4,7 @@ NOTE: This repository is brand new and contains NO content!
 
 One can expect some progress in this repository by the end of 2024.
 
-![Historical Dynamics by Peter Turchin](https://github.com/AFg6K7h4fhy2/historical-dynamics-py/raw/main/assets/images/hist_dyn_book_cover.png){ width=75% }
+<!-- ![Historical Dynamics by Peter Turchin](https://github.com/AFg6K7h4fhy2/historical-dynamics-py/raw/main/assets/images/hist_dyn_book_cover.png){ width=75% } -->
 
 Citation for book referenced:
 
