@@ -5,6 +5,8 @@ description = "Implementations in Python using Diffrax of the models described i
 authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
 license = "Apache-2.0"
 packages = [{include = "historical_dynamics"}]
+readme = "README.md"
+keywords = ["cliodynamics", "python", "modeling", "mathematics", "demography", "history"]
 
 [tool.poetry.dependencies]
 python = "^3.12"
