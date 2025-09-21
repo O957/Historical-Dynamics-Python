@@ -2,7 +2,7 @@
 name = "historical-dynamics-py"
 version = "0.0.1"
 description = "Implementations in Python using Diffrax of the models described in Peter Turchin's 2003 book Historical Dynamics."
-authors = ["AFg6K7h4fhy2 <127630341+AFg6K7h4fhy2@users.noreply.github.com>"]
+authors = ["O957 <127630341+O957@users.noreply.github.com>"]
 license = "Apache-2.0"
 packages = [{include = "historical_dynamics"}]
 
